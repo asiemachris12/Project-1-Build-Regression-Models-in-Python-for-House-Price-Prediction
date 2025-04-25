@@ -95,3 +95,8 @@
     - MLP Regression with scikit-learn
 
     - Regression with TensorFlow
+  
+# Architecture Diagram
+
+![Architecture Diagram 3](https://github.com/user-attachments/assets/31862386-5f8d-46d7-ad4e-1cc065882873)
+
